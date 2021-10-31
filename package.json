@@ -1,0 +1,17 @@
+{
+    "name": "frontend",
+    "version": "1.0.0",
+    "description": "frontend for blockcn",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jpjosh",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "bootstrap": "^5.1.3",
+        "font-awesome": "^4.7.0",
+        "react-bootstrap": "^2.0.1"
+    }
+}
